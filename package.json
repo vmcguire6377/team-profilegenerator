@@ -1,0 +1,22 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "\"\",",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "  },"
+  },
+  "author": "vmcguire",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
