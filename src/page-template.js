@@ -47,7 +47,7 @@ const generateAbout = aboutText => {
               </h5>
               <p>${email}</p>
 
-              <h5 class="portfolio-ofcNum">
+              <h5 class="portfolio-ofc">
               Office Number:
                 ${languages.join(', ')}
               </h5>
