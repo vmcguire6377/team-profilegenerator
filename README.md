@@ -9,4 +9,6 @@ All tests have passed as is evident by running npm run test in command line, sho
 
 Inquirer and jest packages were used in this project.
 
+Walk through demonstration video link:https://drive.google.com/file/d/1HinrWwtDP6WYQnpYYRI8iiKgPmbrMoLh/view
+
 ![hannahprofilegenerator](https://user-images.githubusercontent.com/79176079/119271295-373f2e80-bbbe-11eb-8942-cfe4f96833f5.PNG)
