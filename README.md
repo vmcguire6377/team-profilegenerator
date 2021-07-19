@@ -7,8 +7,7 @@ After all user prompts are answered, the last question provided in the applicati
 
 All tests have passed as is evident by running npm run test in command line, shown in the walkthrough demonstration.
 
-Inquirer and jest packages were used in this project.
-
+Build With: HTML, CSS, JavaScript, node.js, Inquirer, jest, and fs 
 Walk through demonstration video link:https://drive.google.com/file/d/1HinrWwtDP6WYQnpYYRI8iiKgPmbrMoLh/view
 
 ![hannahprofilegenerator](https://user-images.githubusercontent.com/79176079/119271295-373f2e80-bbbe-11eb-8942-cfe4f96833f5.PNG)
